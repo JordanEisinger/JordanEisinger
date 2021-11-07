@@ -15,6 +15,15 @@ My repos are full of fun Data Science (DS) projects that I  work on in my free t
 <br/>
 <br/>
 
+## Languages & Tools!
+<img align="left" alt="Python" span title="Python" width="25px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" alt="Jupyter" span title="Jupyter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+<img align="left" alt="SQL" span title="SQL" width="25px" src="https://img.icons8.com/dusk/64/000000/sql.png"/>
+<img align="left" alt="Visual Studio Code" span title="Visual Studio Code" width="25px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+<br/>
+<br/>
+
 ## GitHub Stats! 
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaneisinger&show_icons=true&theme=radical)
 <br/>
