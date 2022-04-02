@@ -1,5 +1,4 @@
 ## Hello! I'm Jordan and welcome to my GitHub Profile! 👋🏻
-
 My repos are full of fun Data Science (DS) projects that I  work on in my free time. 😄 
 
 #### A Little Bit About Myself:
