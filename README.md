@@ -2,12 +2,17 @@
 
 My repos are full of fun data science (DS) projects that I  work on in my free time. 😄
 
-## A Little Bit About Myself
+## A Little Bit About Myself:
 
 - 💼 I work as a Data Scientist for an online dating company 💕
 - 🌱 Currently learning a bit of everything!
 - 🎸 When I'm not doing data things, I play guitar in a rock band!
 - 🗓 2022 Goal: I'm new to GitHub, so my goal is to make weekly contributions.
+
+## Notable repos on my profile to consider:
+
+- *[Web Scraping Pokemon Data](https://github.com/JordanEisinger/pokemon-web-scraping)*
+- *[Music Genre Classification](https://github.com/JordanEisinger/music-genre-classification)*
 
 ### Connect with me
 
