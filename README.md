@@ -1,3 +1,7 @@
+<img src="" alt="Jordan Eisinger GitHub README header image">
+<p><a href="https://www.linkedin.com/in/jordaneisinger"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+
+
 # Hello! I'm Jordan and welcome to my GitHub Profile! 👋🏻
 
 My repos are full of fun data science (DS) projects that I  work on in my free time. 😄
