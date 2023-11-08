@@ -1,6 +1,5 @@
 <img src="https://github.com/JordanEisinger/JordanEisinger/blob/main/Black%20Technology%20LinkedIn%20Banner.png" alt="Jordan Eisinger GitHub README header image">
-<p><a href="https://www.linkedin.com/in/jordaneisinger"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
-
+<p><a href="https://www.linkedin.com/in/jordaneisinger" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 # Hello! I'm Jordan and welcome to my GitHub Profile! 👋🏻
 
