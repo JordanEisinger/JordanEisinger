@@ -14,12 +14,6 @@ My repos are full of fun data science (DS) projects that I  work on in my free t
 - *[Web Scraping Pokemon Data](https://github.com/JordanEisinger/pokemon-web-scraping)*
 - *[Music Genre Classification](https://github.com/JordanEisinger/music-genre-classification)*
 
-### Connect with me
-
-[<img align="left" alt="jordaneisinger | LinkedIn" span title="LinkedIn" width="25px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-
-[<img align="left" alt="jordaneisinger | Instagram" span title="Instagram" width="25px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
-
 <br>
 
 ### Languages & Tools
