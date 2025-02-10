@@ -10,7 +10,7 @@ My repos are full of fun data science (DS) projects that I  work on in my free t
 ## A Little Bit About Myself:
 
 - 🎓 Have my Masters in Data Analytics & Applied Economics
-- 💼 I am a Data Scientist for an online dating company 💕
+- 💼 I am a Data Scientist for an music ecommerce website 🎸
 - 🌱 Currently learning a bit of everything!
 - 🎸 When I'm not doing data things, I play guitar in a rock band!
   
